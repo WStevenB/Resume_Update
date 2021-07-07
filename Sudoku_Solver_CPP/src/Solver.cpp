@@ -33,6 +33,7 @@ bool Solver::switchBoards() {
    // not true if an early bad guess was made - could explore other heuristics
    current_ = 0;
    unsigned int highestRounds = 0;
+
    for(unsigned int i = 0; i<boards_.size(); i++) {
       if(boards_[i].numberRounds_ > highestRounds) {
          highestRounds = boards_[i].numberRounds_;
@@ -75,10 +76,13 @@ void Solver::solvePuzzle() {
             // abort if unable to do so - bad guess was made at some previous point in time
             for(unsigned int i = 0; i<newSquares.size(); i++) {
                Square s(newSquares[i]);
+
                if(s.sign_ == POSITIVE_PROPOSITION) {
-                  if(boards_[current_].board_[s.row_][s.column_] != BLANK_VALUE && boards_[current_].board_[s.row_][s.column_] != s.value_) {
+
+                  if(boards_[current_].board_[s.row_][s.column_] != BLANK_VALUE 
+                  && boards_[current_].board_[s.row_][s.column_] != s.value_) {
+
                      boards_[current_].cnf_.isValid_ = false;
-                     std::cout << "Not valid : " << (unsigned int) s.row_ << " " << (unsigned int) s.column_ << " " << s.value_ << " " << s.sign_ << std::endl;
                      continue;
                   }
                   else {
@@ -102,26 +106,28 @@ void Solver::solvePuzzle() {
          // smallest set guesses with a unique value is found
          // each is applied to a new board and recursion levels incremented - current board is deleted
          else {
-            bool guessMade = false;
-            while(guessMade == false) {
+            bool guessSuccess = false;
+            while(guessSuccess == false) {
 
                // continue to get new guesses if none in first round pan out
                // bad sign if more than one round is needed - board likely invalid
                // it's possible that the board is definitely invalid and should be immediately switched out and deleted
                std::deque<int> guesses = boards_[current_].getBestGuesses();
+
                if(guesses.size() > 0) {
                   for(unsigned int i = 0; i<guesses.size(); i++) {
                      Board guessBoard = boards_[current_];
                      Square guessSquare(guesses[i]);
 
-                     if(guessSquare.sign_ == POSITIVE_PROPOSITION && guessBoard.board_[guessSquare.row_][guessSquare.column_] == BLANK_VALUE) {
+                     if(guessSquare.sign_ == POSITIVE_PROPOSITION 
+                     && guessBoard.board_[guessSquare.row_][guessSquare.column_] == BLANK_VALUE) {
 
-                        guessMade = true;
                         guessBoard.board_[guessSquare.row_][guessSquare.column_] = guessSquare.value_;
 
                         if(guessBoard.isValid()) {
 
                            // guess appears valid so save this board for further processing
+                           guessSuccess = true;
                            guessBoard.recursionLevel_++;
                            std::deque<int> props;
                            props.push_back(guesses[i]);
