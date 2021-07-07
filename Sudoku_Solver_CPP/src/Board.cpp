@@ -314,7 +314,7 @@ std::deque<int> Board::getSingleEmpties() {
 
 
 // applies propositions found in getSingleEmpties()
-bool Board::applyEmpties() {
+bool Board::applySingleEmpties() {
 
    std::deque<int> empties = getSingleEmpties();
 

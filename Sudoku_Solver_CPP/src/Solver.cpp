@@ -59,7 +59,9 @@ void Solver::solvePuzzle() {
 
 
       // attempt to switch boards if current one is invalid
-      if(boards_[current_].cnf_.isValid_ == false || boards_[current_].applyEmpties() == false) {
+      if(boards_[current_].cnf_.isValid_ == false 
+      || boards_[current_].applySingleEmpties() == false) {
+
          if(switchBoards() == false) break;
       }
 

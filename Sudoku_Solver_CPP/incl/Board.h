@@ -29,7 +29,7 @@ public:
    std::deque<int> getSingleEmpties();
 
    // applies propositions from getSingleEmpties()
-   bool applyEmpties();
+   bool applySingleEmpties();
 
    // displays sudoku board in terminal window
    void print();
