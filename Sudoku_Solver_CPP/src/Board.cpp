@@ -78,9 +78,9 @@ void Board::newPropositions(int newSquare) {
    Square square(newSquare);
 
    // make propositions that all other values at this square are false
-   for(unsigned int i = VALUE_START; i<VALUE_LIMIT; i++) {
-      if(i == square.value_) continue;
-      Square valueNegative(square.row_, square.column_, i, NEGATIVE_PROPOSITION);
+   for(unsigned int v = VALUE_START; v<VALUE_LIMIT; v++) {
+      if(v == square.value_) continue;
+      Square valueNegative(square.row_, square.column_, v, NEGATIVE_PROPOSITION);
       std::deque<int> valueProp;
       valueProp.push_back(valueNegative.proposition_);
       cnf_.addProps(valueProp);
