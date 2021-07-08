@@ -30,11 +30,14 @@ public:
    // stores all cnf propositions
    std::deque< std::deque<int> > props_;
 
-   // singular propositions already disclosed
-   std::set<int> oldPropositions_;
-
    // false if the same positive and negative singular proposition exist
    bool isValid_;
+
+
+private:
+
+   // singular propositions already disclosed
+   std::set<int> oldPropositions_;
 };
 
 

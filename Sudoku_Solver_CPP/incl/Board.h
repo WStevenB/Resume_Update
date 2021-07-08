@@ -48,6 +48,9 @@ public:
    // depth of recursion branch - used to kill processing for bad puzzles and "infinite" loop
    unsigned int recursionLevel_;
 
+
+private:
+
    // stores all past guesses made in order to find unique guesses
    std::set<int> pastGuesses_;
 };
