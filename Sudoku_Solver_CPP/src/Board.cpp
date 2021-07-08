@@ -323,10 +323,8 @@ bool Board::applySingleEmpties() {
       Square s(empties[i]);
 
       if(board_[s.row_][s.column_] == 0) {
+
          board_[s.row_][s.column_] = s.value_;
-
-         if(isValid() == false) return false;
-
          std::deque<int> prop;
          prop.push_back(empties[i]);
          cnf_.addProps(prop);
@@ -334,7 +332,7 @@ bool Board::applySingleEmpties() {
       }
    }
 
-   return true;
+   return isValid();
 }
 
 
