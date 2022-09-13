@@ -1,0 +1,34 @@
+<BeatsPerMinute>120</BeatsPerMinute>
+<LengthSeconds>10</LengthSeconds>
+<Riff>
+   <Measures>1,3,5,7,9</Measures>
+
+   <Note><Instrument>100</Instrument><Beat>0</Beat><Length>48</Length></Note>
+
+   <Note><Instrument>5</Instrument><Beat>0</Beat><Gain>0.2</Gain></Note>
+   <Note><Instrument>5</Instrument><Beat>12</Beat><Gain>0.2</Gain></Note>
+   <Note><Instrument>5</Instrument><Beat>24</Beat><Gain>0.2</Gain></Note>
+   <Note><Instrument>5</Instrument><Beat>36</Beat><Gain>0.2</Gain></Note>
+
+   <Note><Instrument>2</Instrument><Beat>0</Beat><Gain>0.5</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>24</Beat><Gain>0.5</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>48</Beat><Gain>0.5</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>72</Beat><Gain>0.5</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>0</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>48</Beat></Note>
+
+   <Note><Instrument>6</Instrument><Beat>96</Beat><Gain>1</Gain></Note>
+       
+   <Note><Instrument>103</Instrument><Beat>96</Beat><Length>48</Length></Note>
+
+   <Note><Instrument>2</Instrument><Beat>96</Beat><Gain>0.5</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>120</Beat><Gain>0.5</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>144</Beat><Gain>0.5</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>168</Beat><Gain>0.5</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>120</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>144</Beat></Note>
+</Riff>
