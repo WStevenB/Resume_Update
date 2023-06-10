@@ -20,6 +20,8 @@ public:
    double startingSample_;
    double lengthSamples_;
    double gain_;
+   unsigned int beat_;
+   unsigned int length_;
 };
 
 

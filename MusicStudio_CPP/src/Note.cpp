@@ -6,15 +6,17 @@
 Note::Note(std::string text, double samplesPerBeat)
 {
    double instrument = Utilities::parseTagContents(text, "Instrument");
-   instrument_ = (INSTRUMENT) instrument;
+   instrument_ = static_cast<INSTRUMENT>(instrument);
 
    // beat is given in 96th notes, so quarter note is 24
    double beat = Utilities::parseTagContents(text, "Beat");
+   beat_ = static_cast<unsigned int>(beat);
    double samplesPer96th = samplesPerBeat / 24;
    startingSample_ = beat * samplesPer96th;
 
    // length is given in 96th notes also, will decay in last 15% linearly
    double length = Utilities::parseTagContents(text, "Length");
+   length_ = static_cast<unsigned int>(length);
    lengthSamples_ = length * samplesPer96th;
 
    gain_ = Utilities::parseTagContents(text, "Gain");

@@ -1,0 +1,56 @@
+<score-partwise version="4.0">
+   <part-list>
+      <score-part id="P1">
+         <part-name>Drums</part-name>
+         <score-instrument id="P1-X4">
+            <instrument-name>Snare Drum</instrument-name>
+         </score-instrument>
+         <score-instrument id="P1-X2">
+            <instrument-name>Kick Drum</instrument-name>
+         </score-instrument>
+         <score-instrument id="P1-X13">
+            <instrument-name>Crash Cymbal</instrument-name>
+         </score-instrument>
+         <score-instrument id="P1-X6">
+            <instrument-name>Hi-Hat</instrument-name>
+         </score-instrument>
+         <score-instrument id="P1-I1">
+            <instrument-name>Piano</instrument-name>
+         </score-instrument>
+         <midi-instrument id="P1-I1">
+            <midi-channel>1</midi-channel>
+            <midi-program>1</midi-program>
+            <volume>79</volume>
+            <pan>0</pan>
+         </midi-instrument>
+         <midi-instrument id="P1-X4">
+            <midi-channel>10</midi-channel>
+            <midi-program>1</midi-program>
+            <midi-unpitched>39</midi-unpitched>
+            <volume>80</volume>
+            <pan>0</pan>
+         </midi-instrument>
+         <midi-instrument id="P1-X2">
+            <midi-channel>10</midi-channel>
+            <midi-program>1</midi-program>
+            <midi-unpitched>37</midi-unpitched>
+            <volume>80</volume>
+            <pan>0</pan>
+         </midi-instrument>
+         <midi-instrument id="P1-X13">
+            <midi-channel>10</midi-channel>
+            <midi-program>1</midi-program>
+            <midi-unpitched>50</midi-unpitched>
+            <volume>80</volume>
+            <pan>0</pan>
+         </midi-instrument>
+         <midi-instrument id="P1-X6">
+            <midi-channel>10</midi-channel>
+            <midi-program>1</midi-program>
+            <midi-unpitched>43</midi-unpitched>
+            <volume>80</volume>
+            <pan>0</pan>
+         </midi-instrument>
+      </score-part>
+   </part-list>
+   <part id="P1">

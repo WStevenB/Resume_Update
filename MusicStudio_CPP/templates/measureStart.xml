@@ -1,0 +1,18 @@
+      <measure number="___MEASURE_NUMBER___">
+         <attributes>
+            <divisions>24</divisions>
+            <key>
+               <fifths>0</fifths>
+               <mode>major</mode>
+            </key>
+            <time symbol="common">
+               <beats>4</beats>
+               <beat-type>4</beat-type>
+            </time>
+            <instruments>5</instruments>
+            <clef>
+               <sign>___SIGN___</sign>
+               <line>4</line>
+            </clef>
+         </attributes>
+         <sound tempo="120"/>

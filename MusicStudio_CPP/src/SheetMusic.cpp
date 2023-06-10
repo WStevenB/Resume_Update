@@ -20,6 +20,8 @@ SheetMusic::SheetMusic(std::string inputFilePath,
       while (ifs.get(c)) fileContents_.push_back(c);
    }
 
+   Utilities::replaceInstrumentNames(fileContents_);
+
    songLengthSeconds_ = Utilities::parseTagContents(fileContents_, "LengthSeconds");
    if(songLengthSeconds_ < 1 || songLengthSeconds_ > 10000)
    {

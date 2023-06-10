@@ -1,0 +1,163 @@
+<BeatsPerMinute>90</BeatsPerMinute>
+<LengthSeconds>120</LengthSeconds>
+
+<Riff>
+   <Measures>1,5,9,13,25,29,33,37,49,53,57,61</Measures>
+   
+   <Note><Instrument>HAT</Instrument><Beat>0</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>24</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>48</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>72</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>0</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>48</Beat><Gain>0.6</Gain></Note>
+       
+   <Note><Instrument>HAT</Instrument><Beat>96</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>120</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>144</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>168</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>120</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>144</Beat><Gain>0.6</Gain></Note>
+
+   <Note><Instrument>HAT</Instrument><Beat>192</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>216</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>240</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>264</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>192</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>240</Beat><Gain>0.6</Gain></Note>
+       
+   <Note><Instrument>HAT</Instrument><Beat>288</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>312</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>336</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>360</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>312</Beat></Note>
+   <Note><Instrument>KICK</Instrument><Beat>360</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>336</Beat><Gain>0.6</Gain></Note>
+
+   <Note><Instrument>CRASH</Instrument><Beat>384</Beat><Gain>0.2</Gain></Note>
+</Riff>
+
+<Riff>
+    <Measures>1,5,9,13,25,29,33,37,49,53,57,61</Measures>
+    <Note><Instrument>FBASS_G2</Instrument><Beat>0</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+    <Note><Instrument>FBASS_C3</Instrument><Beat>192</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+</Riff>
+
+
+
+
+<Riff>
+   <Measures>17,41</Measures>
+   
+   <Note><Instrument>HAT</Instrument><Beat>0</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>24</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>48</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>72</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>0</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>48</Beat><Gain>0.6</Gain></Note>
+       
+   <Note><Instrument>HAT</Instrument><Beat>96</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>120</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>144</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>168</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>120</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>144</Beat><Gain>0.6</Gain></Note>
+
+
+
+
+   <Note><Instrument>HAT</Instrument><Beat>192</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>216</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>240</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>264</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>192</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>240</Beat><Gain>0.6</Gain></Note>
+       
+   <Note><Instrument>HAT</Instrument><Beat>288</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>312</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>336</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>360</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>312</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>336</Beat><Gain>0.6</Gain></Note>
+
+
+
+
+   <Note><Instrument>HAT</Instrument><Beat>384</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>408</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>432</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>456</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>384</Beat></Note>
+   <Note><Instrument>KICK</Instrument><Beat>408</Beat></Note>
+   <Note><Instrument>KICK</Instrument><Beat>456</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>432</Beat><Gain>0.6</Gain></Note>
+       
+   <Note><Instrument>HAT</Instrument><Beat>480</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>504</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>528</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>552</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>504</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>528</Beat><Gain>0.6</Gain></Note>
+
+
+
+
+   <Note><Instrument>HAT</Instrument><Beat>576</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>600</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>624</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>648</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>576</Beat></Note>
+   <Note><Instrument>KICK</Instrument><Beat>600</Beat></Note>
+   <Note><Instrument>KICK</Instrument><Beat>648</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>624</Beat><Gain>0.6</Gain></Note>
+       
+   <Note><Instrument>HAT</Instrument><Beat>672</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>696</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>720</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>HAT</Instrument><Beat>744</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>KICK</Instrument><Beat>696</Beat></Note>
+
+   <Note><Instrument>SNARE</Instrument><Beat>720</Beat><Gain>0.6</Gain></Note>
+
+   <Note><Instrument>TOM4</Instrument><Beat>684</Beat><Gain>0.6</Gain></Note>
+   <Note><Instrument>TOM3</Instrument><Beat>696</Beat><Gain>0.6</Gain></Note>
+   <Note><Instrument>TOM2</Instrument><Beat>708</Beat><Gain>0.6</Gain></Note>
+   <Note><Instrument>TOM4</Instrument><Beat>720</Beat><Gain>0.6</Gain></Note>
+   <Note><Instrument>TOM3</Instrument><Beat>732</Beat><Gain>0.6</Gain></Note>
+   <Note><Instrument>TOM2</Instrument><Beat>744</Beat><Gain>0.6</Gain></Note>
+   <Note><Instrument>TOM2</Instrument><Beat>756</Beat><Gain>0.6</Gain></Note>
+   <Note><Instrument>CRASH</Instrument><Beat>768</Beat><Gain>0.2</Gain></Note>
+</Riff>
+
+
+<Riff>
+    <Measures>17,41</Measures>
+    <Note><Instrument>FBASS_G2</Instrument><Beat>0</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+    <Note><Instrument>FBASS_A3</Instrument><Beat>192</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+    <Note><Instrument>FBASS_D3</Instrument><Beat>384</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+    <Note><Instrument>FBASS_D3</Instrument><Beat>576</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+</Riff>
+
+

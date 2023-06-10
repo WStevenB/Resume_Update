@@ -1,0 +1,11 @@
+         <note>
+            <pitch>
+               <step>___NOTE___</step>
+               <octave>___OCTAVE___</octave>
+            </pitch>
+            <duration>___DURATION___</duration>
+            <instrument id="P1-I1"/>
+            <type>___TYPE___</type>
+            <voice>1</voice>
+            <stem default-y="40">___STEM___</stem>
+         </note>

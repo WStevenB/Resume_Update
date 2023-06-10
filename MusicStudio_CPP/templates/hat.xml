@@ -1,0 +1,12 @@
+         <note>
+            <unpitched>
+               <display-step>B</display-step>
+               <display-octave>3</display-octave>
+            </unpitched>
+            <duration>___DURATION___</duration>
+            <instrument id="P1-X6"/>
+            <type>___TYPE___</type>
+            <voice>1</voice>
+            <stem default-y="40">up</stem>
+            <notehead>x</notehead>
+         </note>

@@ -1,0 +1,164 @@
+<BeatsPerMinute>90</BeatsPerMinute>
+<LengthSeconds>120</LengthSeconds>
+<Riff>
+   <Measures>1,5,9,13,25,29,33,37,49,53,57,61</Measures>
+   
+   <Note><Instrument>2</Instrument><Beat>0</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>24</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>48</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>72</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>0</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>48</Beat><Gain>0.3</Gain></Note>
+       
+   <Note><Instrument>2</Instrument><Beat>96</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>120</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>144</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>168</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>120</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>144</Beat><Gain>0.3</Gain></Note>
+
+   <Note><Instrument>2</Instrument><Beat>192</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>216</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>240</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>264</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>192</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>240</Beat><Gain>0.3</Gain></Note>
+       
+   <Note><Instrument>2</Instrument><Beat>288</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>312</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>336</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>360</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>312</Beat></Note>
+   <Note><Instrument>0</Instrument><Beat>360</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>336</Beat><Gain>0.3</Gain></Note>
+
+   <Note><Instrument>4</Instrument><Beat>384</Beat><Gain>0.2</Gain></Note>
+</Riff>
+
+<Riff>
+    <Measures>1,5,9,13,25,29,33,37,49,53,57,61</Measures>
+    <Note><Instrument>119</Instrument><Beat>0</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+    <Note><Instrument>124</Instrument><Beat>192</Beat><Length>192</Length><Gain>0.4</Gain></Note>
+</Riff>
+
+
+
+
+<Riff>
+   <Measures>17,41</Measures>
+   
+   <Note><Instrument>2</Instrument><Beat>0</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>24</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>48</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>72</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>0</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>48</Beat><Gain>0.3</Gain></Note>
+       
+   <Note><Instrument>2</Instrument><Beat>96</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>120</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>144</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>168</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>120</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>144</Beat><Gain>0.3</Gain></Note>
+
+
+
+
+   <Note><Instrument>2</Instrument><Beat>192</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>216</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>240</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>264</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>192</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>240</Beat><Gain>0.3</Gain></Note>
+       
+   <Note><Instrument>2</Instrument><Beat>288</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>312</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>336</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>360</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>312</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>336</Beat><Gain>0.3</Gain></Note>
+
+
+
+
+   <Note><Instrument>2</Instrument><Beat>384</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>408</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>432</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>456</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>384</Beat></Note>
+   <Note><Instrument>0</Instrument><Beat>408</Beat></Note>
+   <Note><Instrument>0</Instrument><Beat>456</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>432</Beat><Gain>0.3</Gain></Note>
+       
+   <Note><Instrument>2</Instrument><Beat>480</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>504</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>528</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>552</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>504</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>528</Beat><Gain>0.3</Gain></Note>
+
+
+
+
+   <Note><Instrument>2</Instrument><Beat>576</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>600</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>624</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>648</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>576</Beat></Note>
+   <Note><Instrument>0</Instrument><Beat>600</Beat></Note>
+   <Note><Instrument>0</Instrument><Beat>648</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>624</Beat><Gain>0.3</Gain></Note>
+       
+   <Note><Instrument>2</Instrument><Beat>672</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>696</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>720</Beat><Gain>0.22</Gain></Note>
+   <Note><Instrument>2</Instrument><Beat>744</Beat><Gain>0.22</Gain></Note>
+
+   <Note><Instrument>0</Instrument><Beat>696</Beat></Note>
+
+   <Note><Instrument>1</Instrument><Beat>720</Beat><Gain>0.3</Gain></Note>
+
+   <Note><Instrument>7</Instrument><Beat>684</Beat><Gain>0.3</Gain></Note>
+   <Note><Instrument>8</Instrument><Beat>696</Beat><Gain>0.3</Gain></Note>
+   <Note><Instrument>9</Instrument><Beat>708</Beat><Gain>0.3</Gain></Note>
+   <Note><Instrument>7</Instrument><Beat>720</Beat><Gain>0.3</Gain></Note>
+   <Note><Instrument>8</Instrument><Beat>732</Beat><Gain>0.3</Gain></Note>
+   <Note><Instrument>9</Instrument><Beat>744</Beat><Gain>0.3</Gain></Note>
+   <Note><Instrument>9</Instrument><Beat>756</Beat><Gain>0.3</Gain></Note>
+   <Note><Instrument>4</Instrument><Beat>768</Beat><Gain>0.2</Gain></Note>
+</Riff>
+
+
+<Riff>
+   <Measures>17,41</Measures>
+   <Note><Instrument>119</Instrument><Beat>0</Beat><Length>48</Length><Gain>0.4</Gain></Note>
+   <Note><Instrument>123</Instrument><Beat>48</Beat><Length>24</Length><Gain>0.4</Gain></Note>
+   <Note><Instrument>119</Instrument><Beat>72</Beat><Length>96</Length><Gain>0.4</Gain></Note>
+   <Note><Instrument>121</Instrument><Beat>168</Beat><Length>24</Length><Gain>0.4</Gain></Note>
+   <Note><Instrument>126</Instrument><Beat>192</Beat><Length>72</Length><Gain>0.4</Gain></Note>
+   <Note><Instrument>123</Instrument><Beat>264</Beat><Length>96</Length><Gain>0.4</Gain></Note>
+</Riff>
+
+

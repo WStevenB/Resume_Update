@@ -1,0 +1,9 @@
+<BeatsPerMinute>85</BeatsPerMinute>
+<LengthSeconds>120</LengthSeconds>
+
+
+<Riff>
+    <Measures>1,3,5</Measures>
+    <Note><Instrument>FBASS_C3</Instrument><Beat>0</Beat><Length>192</Length><Gain>0.9</Gain></Note>
+</Riff>
+
